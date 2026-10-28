@@ -1,0 +1,434 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{wang2025filippov}{article}{}
+      \name{author}{5}{}{%
+        {{hash=ef3ebf57c2dda94da7a1b51235444842}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Aili},
+           giveni={A\bibinitperiod}}}%
+        {{hash=21667a64e655897ecf51a90bf17534f0}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Yinjiao},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=27c28edf0184731a375c6bc3f056104e}{%
+           family={Bai},
+           familyi={B\bibinitperiod},
+           given={Duo},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6cb8aa991b9f306bd06b6627fdd095e2}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Weike},
+           giveni={W\bibinitperiod}}}%
+        {{hash=8a5305905ceaebf68ce4ef4bb579ffa5}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Stacey\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{75c56ce2867fd7f4d1d61cf9bb844be9}
+      \strng{fullhash}{6d4a0ff7fcd63dc4c66658dd2b2dcf2d}
+      \strng{bibnamehash}{6d4a0ff7fcd63dc4c66658dd2b2dcf2d}
+      \strng{authorbibnamehash}{6d4a0ff7fcd63dc4c66658dd2b2dcf2d}
+      \strng{authornamehash}{75c56ce2867fd7f4d1d61cf9bb844be9}
+      \strng{authorfullhash}{6d4a0ff7fcd63dc4c66658dd2b2dcf2d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bulletin of Mathematical Biology}
+      \field{number}{11}
+      \field{title}{A {Filippov} Model Describing the Effect of Social Distancing in Controlling Infectious Diseases}
+      \field{volume}{87}
+      \field{year}{2025}
+      \field{pages}{156}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s11538-025-01530-1
+      \endverb
+    \endentry
+    \entry{garlan1994introduction}{report}{}
+      \name{author}{2}{}{%
+        {{hash=5e93a0537dc9db010915acd5407760d4}{%
+           family={Garlan},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a71c8aa98b158fa0b3a629457cda1498}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Carnegie Mellon University}%
+      }
+      \list{location}{1}{%
+        {Pittsburgh, PA}%
+      }
+      \strng{namehash}{94627d1b95ba382f0e96d00a081554c3}
+      \strng{fullhash}{94627d1b95ba382f0e96d00a081554c3}
+      \strng{bibnamehash}{94627d1b95ba382f0e96d00a081554c3}
+      \strng{authorbibnamehash}{94627d1b95ba382f0e96d00a081554c3}
+      \strng{authornamehash}{94627d1b95ba382f0e96d00a081554c3}
+      \strng{authorfullhash}{94627d1b95ba382f0e96d00a081554c3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{CMU-CS-94-166}
+      \field{title}{An Introduction to Software Architecture}
+      \field{type}{Technical Report}
+      \field{year}{1994}
+    \endentry
+    \entry{isoiec42010}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=81077c206f392162560480542b37f0cd}{%
+           family={{ISO/IEC/IEEE}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{81077c206f392162560480542b37f0cd}
+      \strng{fullhash}{81077c206f392162560480542b37f0cd}
+      \strng{bibnamehash}{81077c206f392162560480542b37f0cd}
+      \strng{authorbibnamehash}{81077c206f392162560480542b37f0cd}
+      \strng{authornamehash}{81077c206f392162560480542b37f0cd}
+      \strng{authorfullhash}{81077c206f392162560480542b37f0cd}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{International Standard ISO/IEC/IEEE 42010:2011}
+      \field{title}{Systems and software engineering --- Architecture description}
+      \field{year}{2011}
+    \endentry
+    \entry{bass2021sia}{book}{}
+      \name{author}{3}{}{%
+        {{hash=97196c0aaced1368c3042b9299a9b34b}{%
+           family={Bass},
+           familyi={B\bibinitperiod},
+           given={Len},
+           giveni={L\bibinitperiod}}}%
+        {{hash=806866eee4e5b55ba7360bfe43f4f397}{%
+           family={Clements},
+           familyi={C\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4a2e06c3fa40bc2221536e74ab90b7ec}{%
+           family={Kazman},
+           familyi={K\bibinitperiod},
+           given={Rick},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley Professional}%
+      }
+      \strng{namehash}{2626ec8f22fc3baa10dbc85a9825ee79}
+      \strng{fullhash}{f3c472223052fa8f8a1c396381e08cd3}
+      \strng{bibnamehash}{f3c472223052fa8f8a1c396381e08cd3}
+      \strng{authorbibnamehash}{f3c472223052fa8f8a1c396381e08cd3}
+      \strng{authornamehash}{2626ec8f22fc3baa10dbc85a9825ee79}
+      \strng{authorfullhash}{f3c472223052fa8f8a1c396381e08cd3}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{title}{Software Architecture in Practice}
+      \field{year}{2021}
+    \endentry
+    \entry{buschmann1996posa}{book}{}
+      \name{author}{5}{}{%
+        {{hash=430c232492825b32cc28516567fba614}{%
+           family={Buschmann},
+           familyi={B\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f4027a9a8e2d38c752c1297840076ff7}{%
+           family={Meunier},
+           familyi={M\bibinitperiod},
+           given={Regine},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d8847e1d8f19241d08e773c0c52a91b0}{%
+           family={Rohnert},
+           familyi={R\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ada8f9113cbf791844f149d70b20c5e7}{%
+           family={Sommerlad},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ae19aca7d140c27197c6cc8b4bcf8c3c}{%
+           family={Stal},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chichester, UK}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{bdf43703bbbbcb09d37d4a8ce98dd3ca}
+      \strng{fullhash}{6279fe502a51119abf4ec29a5c1d4257}
+      \strng{bibnamehash}{6279fe502a51119abf4ec29a5c1d4257}
+      \strng{authorbibnamehash}{6279fe502a51119abf4ec29a5c1d4257}
+      \strng{authornamehash}{bdf43703bbbbcb09d37d4a8ce98dd3ca}
+      \strng{authorfullhash}{6279fe502a51119abf4ec29a5c1d4257}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pattern-Oriented Software Architecture, Volume 1: A System of Patterns}
+      \field{year}{1996}
+    \endentry
+    \entry{martin2003agile}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6f41df64eb0dc4855be70172368604c2}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Robert\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Upper Saddle River, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Prentice Hall}%
+      }
+      \strng{namehash}{6f41df64eb0dc4855be70172368604c2}
+      \strng{fullhash}{6f41df64eb0dc4855be70172368604c2}
+      \strng{bibnamehash}{6f41df64eb0dc4855be70172368604c2}
+      \strng{authorbibnamehash}{6f41df64eb0dc4855be70172368604c2}
+      \strng{authornamehash}{6f41df64eb0dc4855be70172368604c2}
+      \strng{authorfullhash}{6f41df64eb0dc4855be70172368604c2}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Agile Software Development: Principles, Patterns, and Practices}
+      \field{year}{2003}
+    \endentry
+    \entry{wilson2014best}{article}{}
+      \name{author}{13}{}{%
+        {{hash=fda30198609a1ab29a82b93d4e8f347b}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b7fb429a64159c8c2fcffb2fd5ebe322}{%
+           family={Aruliah},
+           familyi={A\bibinitperiod},
+           given={D.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6c3d75b262ff31c4c460a38dcfaa01c7}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={C.\bibnamedelimi Titus},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=b16058072ea614ed866525e9be15f25c}{%
+           family={Chue\bibnamedelima Hong},
+           familyi={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Neil\bibnamedelima P.},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=5b594bb95226424e0f98be76162893ba}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod}}}%
+        {{hash=91190d61d09ab97ca2c781ad67b5f9c5}{%
+           family={Guy},
+           familyi={G\bibinitperiod},
+           given={Richard\bibnamedelima T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=8508b37dea0eb874d042fab5661d8436}{%
+           family={Haddock},
+           familyi={H\bibinitperiod},
+           given={Steven\bibnamedelimb H.\bibnamedelimi D.},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=4f0a2e62c8bf12f5509d6709d5b3740e}{%
+           family={Huff},
+           familyi={H\bibinitperiod},
+           given={Kathryn\bibnamedelima D.},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=7784363e87d22b678f93bf2eacf80944}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Ian\bibnamedelima M.},
+           giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=af302f6b1171db4b3b2979f068a9bafe}{%
+           family={Plumbley},
+           familyi={P\bibinitperiod},
+           given={Mark\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=c4d2f08c21ed761216cc2d3fbc149959}{%
+           family={Waugh},
+           familyi={W\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=91dea6e30a123bc417a445b1cbca2b1d}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Ethan\bibnamedelima P.},
+           giveni={E\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=6b64b7b7d69826da072783c99973005f}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{4996f01033f1e72efe036963c2f02dac}
+      \strng{fullhash}{7a5c13e00333b1b2b1950b80a4cc7512}
+      \strng{bibnamehash}{4996f01033f1e72efe036963c2f02dac}
+      \strng{authorbibnamehash}{4996f01033f1e72efe036963c2f02dac}
+      \strng{authornamehash}{4996f01033f1e72efe036963c2f02dac}
+      \strng{authorfullhash}{7a5c13e00333b1b2b1950b80a4cc7512}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS Biology}
+      \field{number}{1}
+      \field{title}{Best Practices for Scientific Computing}
+      \field{volume}{12}
+      \field{year}{2014}
+      \field{pages}{e1001745}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pbio.1001745
+      \endverb
+    \endentry
+    \entry{piiroinen2008event}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4ccd04c4e78d8a2142762dc516720768}{%
+           family={Piiroinen},
+           familyi={P\bibinitperiod},
+           given={Petri\bibnamedelima T.},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=a4a604a22e629b4e571acca894bf543f}{%
+           family={Kuznetsov},
+           familyi={K\bibinitperiod},
+           given={Yuri\bibnamedelima A.},
+           giveni={Y\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc26c07c75661f05b5089f6c2b4ed6cd}
+      \strng{fullhash}{fc26c07c75661f05b5089f6c2b4ed6cd}
+      \strng{bibnamehash}{fc26c07c75661f05b5089f6c2b4ed6cd}
+      \strng{authorbibnamehash}{fc26c07c75661f05b5089f6c2b4ed6cd}
+      \strng{authornamehash}{fc26c07c75661f05b5089f6c2b4ed6cd}
+      \strng{authorfullhash}{fc26c07c75661f05b5089f6c2b4ed6cd}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Transactions on Mathematical Software}
+      \field{number}{3}
+      \field{title}{An Event-Driven Method to Simulate {Filippov} Systems with Accurate Computing of Sliding Motions}
+      \field{volume}{34}
+      \field{year}{2008}
+      \field{pages}{1\bibrangedash 24}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1145/1356052.1356054
+      \endverb
+    \endentry
+    \entry{filippov1988}{book}{}
+      \name{author}{1}{}{%
+        {{hash=495dbcde28ca656623d5e85d7626abdf}{%
+           family={Filippov},
+           familyi={F\bibinitperiod},
+           given={Aleksei\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Kluwer Academic Publishers}%
+      }
+      \strng{namehash}{495dbcde28ca656623d5e85d7626abdf}
+      \strng{fullhash}{495dbcde28ca656623d5e85d7626abdf}
+      \strng{bibnamehash}{495dbcde28ca656623d5e85d7626abdf}
+      \strng{authorbibnamehash}{495dbcde28ca656623d5e85d7626abdf}
+      \strng{authornamehash}{495dbcde28ca656623d5e85d7626abdf}
+      \strng{authorfullhash}{495dbcde28ca656623d5e85d7626abdf}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Mathematics and its Applications}
+      \field{title}{Differential Equations with Discontinuous Righthand Sides}
+      \field{volume}{18}
+      \field{year}{1988}
+      \verb{doi}
+      \verb 10.1007/978-94-015-7793-9
+      \endverb
+    \endentry
+    \entry{kuznetsov2003one}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a4a604a22e629b4e571acca894bf543f}{%
+           family={Kuznetsov},
+           familyi={K\bibinitperiod},
+           given={Yuri\bibnamedelima A.},
+           giveni={Y\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ebe297bb168b7089a5c6bfc926a1497e}{%
+           family={Rinaldi},
+           familyi={R\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2e75c2888ffefdfdb9a3ef77d48a4ff9}{%
+           family={Gragnani},
+           familyi={G\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b542163d8806afb6150150c2ea70f58}
+      \strng{fullhash}{442b04bcb348e47e0c672e99301a081a}
+      \strng{bibnamehash}{442b04bcb348e47e0c672e99301a081a}
+      \strng{authorbibnamehash}{442b04bcb348e47e0c672e99301a081a}
+      \strng{authornamehash}{5b542163d8806afb6150150c2ea70f58}
+      \strng{authorfullhash}{442b04bcb348e47e0c672e99301a081a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Bifurcation and Chaos}
+      \field{number}{8}
+      \field{title}{One-Parameter Bifurcations in Planar {Filippov} Systems}
+      \field{volume}{13}
+      \field{year}{2003}
+      \field{pages}{2157\bibrangedash 2188}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.1142/S0218127403007874
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
